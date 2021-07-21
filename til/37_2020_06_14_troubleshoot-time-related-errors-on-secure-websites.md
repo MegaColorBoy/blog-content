@@ -6,7 +6,8 @@ status: active
 
 As I was configuring Arch Linux setup on my old HP 8460p laptop, I noticed that I wasn't able to access any site using Chrome or Firefox as I was faced with a weird error:
 
-![SSL Certificate Error](../static/til_images/ssl-time-error.png)
+<!--- ![SSL Certificate Error](../../../static/til_images/ssl-time-error.png)-->
+<img src="../../../static/til_images/ssl-time-error.png" style="width: 500px;" />
 
 I was quite confused and thought it might be an issue with my WiFi card or probably some server issue but turns out it was neither of them.
 

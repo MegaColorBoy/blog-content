@@ -2,8 +2,7 @@ title: Show Git branch in your Bash prompt (with colors)
 date: March 12th, 2021
 slug: show-git-branch-in-your-bash-prompt-with-colors
 category: Bash
-summary: Write your summary here.
-status: inactive
+status: active
 
 Do you work on a project with multiple Git branches but don't know which one you're in? Open your `.bashrc` file and add this:
 

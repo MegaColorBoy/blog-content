@@ -60,6 +60,8 @@ I recommend you to try and read these books:
 + [Coders At Work: Reflections on the Craft of Programming](https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483/)
 + [Show Your Work: 10 Ways To Share Your Creativity And Get Discovered](https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X)
 + [Steal Like an Artist: 10 Things Nobody Told You About Being Creative](https://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253)
++ [The Memory Man](https://www.amazon.com/Memory-Man-David-Baldacci/dp/1455559806)
++ [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 
 ## Where can you find me?
 My username in most places is <mark>@megacolorboy</mark>. This is where you can find me:
