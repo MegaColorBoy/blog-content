@@ -14,11 +14,11 @@ I'm a full stack software engineer living in Dubai, United Arab Emirates with a 
 
 My last job was at [Key Information Technology](https://www.kit.ae) in which I was building the company's website and productive tools for teams. Find out more about my career on my [LinkedIn](https://www.linkedin.com/in/abdush-shakoor-mohamed-nazeer-b5546546) profile. -->
 
-Currently, I work at [Planet Green Solutions](https://www.pgsuae.com) as a Backend Engineer who develops web applications for various clients that mostly comprises of Government Entities of the United Arab Emirates.
+Currently, I work at [Planet Green Solutions](https://www.pgsuae.com) as a Backend Engineer who develops web applications for various clients that mostly comprises of various Government Entities of the United Arab Emirates.
 
 Oh, I'm also part of the Backend team that helped build [FarmsGate](https://www.farmsgate.com), an eCommerce platform for farmers that can sell and deliver fresh fruits and vegetables to your doorstep!
 
-[Check out my resume to learn more about my work experience &rarr;](/static/resume.pdf)
+[Check out my resume to learn more about my work experiences and projects &rarr;](../resume/)
 
 In my spare time, I love to tinker with my computer science and software engineering projects like implementing new algorithms, learning new programming languages or paradigms, building a game and so on. I also design conceptual user interfaces after being exposed to the [DailyUI](https://dailyui.co) project.
 

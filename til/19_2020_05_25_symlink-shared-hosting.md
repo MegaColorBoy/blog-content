@@ -12,7 +12,7 @@ In your `public_html/public` directory, remove the `storage` folder. Next, creat
 <code class="php">
 $targetFolder = $_SERVER['DOCUMENT_ROOT'].'/storage/app/public';
 $linkedFolder = $_SERVER['DOCUMENT_ROOT'].'/public/storage';
-symlink($targetFolder, $linkFolder);
+symlink($targetFolder, $linkedFolder);
 echo "done";
 </code>
 </pre>
